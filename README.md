@@ -1,1 +1,1 @@
-# PagePal---Telegram-bot
+# PagePal Telegram-bot
