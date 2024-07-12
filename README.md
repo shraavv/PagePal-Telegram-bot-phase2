@@ -15,14 +15,14 @@ Feel free to customise your PagePal with more features ;)
 - The bot should have four basic commands:
   - ```/start``` returns a welcome message to the user
   - ```/book``` asks the user to type in the genre
-  - ```/preview``` asks the user for the book name for which they need preview link
+  - ```/preview``` asks the user for the book name for which they need a preview link
   - ```/list``` asks the user to type in a specific book name and then it returns a message to execute ```/reading_list``` command
   - ```/reading_list``` displays three buttons
     - **Add a book**: Press this button to add a new book to the reading list
     - **Delete a book**: Press this button to remove a book from the reading list
     - **View Reading List**: Press this button to return the reading list (docx)
   - ```/help``` returns the list of commands with their description
-- When the ```/book``` command is typed in, the user is asked to enter the genre name, upon which the user types in the name and the bot returns a CSV file with different book names and their details. The CSV file should have different columns for each detail.
+- When the ```/book``` command is typed in, the user is asked to enter the genre name, upon which the bot returns a CSV file with different book names and their details. The CSV file should have different columns for each detail.
 - When the ```/preview``` command is typed in, the user is asked to enter the book name, upon which it redirects us to the preview link.
 - Reading list should be **docx** format and should contain the book title and preview link (if available), bonus points if you could customize the way results are displayed in the doc :)
 - Note that the reading list should remain unchanged unless ```Add a book``` or ```Delete a book``` button is pressed
