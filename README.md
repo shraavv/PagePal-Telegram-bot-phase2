@@ -27,9 +27,8 @@ Feel free to customise your PagePal with more features ;)
 - Reading list should be **docx** format and should contain the book title and preview link (if available), bonus points if you could customize the way results are displayed in the doc :)
 - Note that the reading list should remain unchanged unless ```Add a book``` or ```Delete a book``` button is pressed
 
+Also ensure that you complete this task using **python.**
+
 # Resources
 
-The following resources will help if you are clueless about where to start.
-- [Telegram Bot Tutorial](https://core.telegram.org/bots/tutorial#introduction)
 - [Google Books API](https://developers.google.com/books/docs/v1/using)
-
